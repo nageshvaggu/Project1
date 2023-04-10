@@ -1,2 +1,6 @@
 Welcome to git and github
+<<<<<<< HEAD
 All the best for the Fisrt Assesment
+=======
+Welcome to Java Programming
+>>>>>>> 02a6ece00c6ff9ee5c9232b686049fd5fd7fe8a7
